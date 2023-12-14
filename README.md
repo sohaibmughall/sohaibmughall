@@ -46,13 +46,13 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <p align="center">
   <a href="https://github.com/sohaibmughall">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmughall&theme=radical&border=7F3FBF&background=0D1117" alt="Sohaib Ahmed GitHub streak" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmughall&theme=radical&border=7F3FBF&background=0D1117" alt="Sohaib Ahmed GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sohaibmughall">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaibmughall&theme=radical" alt="Sohiab GitHub Contribution" width="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaibmughall&theme=radical" alt="Sohiab GitHub Contribution" />
   </a>
 </p>
 
