@@ -44,4 +44,4 @@
 </a>
 
 
-![Sohaib Ahmed Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Sohiab Ahmed %20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sohaib Ahmed Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=SohiabAhmed%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
