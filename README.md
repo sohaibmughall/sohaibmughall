@@ -1,6 +1,19 @@
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/sohaibmughall?label=Follow%20Me&style=social)](https://github.com/sohaibmughall)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-SohaibAhmed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sohaib-ahmed-6a589a155/)
+[![Mail](https://img.shields.io/badge/Gmail-sohaib.ahmed837@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sohaib.ahmed837@gmail.com)
+<br>
 
 
-## Use To Code
+<h2 align='center'><samp><strong>Hi there 👋, I am Sohaib Ahmed </strong></samp></h2>
+<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+
+<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites, NFT Marketplace  and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
+💻 **Languages and Tools:** 🛠️<br>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
